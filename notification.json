@@ -1,0 +1,12 @@
+{
+  "url": "http://mozilla.discourse.local/mozilla_iam/notification",
+  "payload": {
+    "iss": "https://auth.mozilla.auth0.com/",
+    "aud": "hook.prod.sso.mozilla.com"
+  },
+  "body": {
+    "operation": "update",
+    "id": "ad|Mozilla-LDAP|lmcardle",
+    "time": 1555067214
+  }
+}
